@@ -4,6 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;MERN+Stack+Developer;Web+Developer" />
 </h3>
 
+## 🎥 Video Introduction
+👉 https://www.loom.com/share/7f0b9a4f479148ce8c4d68bb03f9776c
+
+
+
 ## 🛠️ Skills & Technologies
 
 ### 👨‍💻 Languages
